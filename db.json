@@ -9,7 +9,9 @@
             "city":"Crawfordsville",
             "state":"IN",
             "zipcode":"47933",
-            "level":"Bronze"
+            "level":"Bronze",
+            "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com",
+            "backupAccountManager":"deidre.jenkins@disfrutaglobal018aus1.com"
         },
         {
             "id":100001,
@@ -19,7 +21,9 @@
             "city":"Tacoma",
             "state":"WA",
             "zipcode":"98438",
-            "level":"Gold"
+            "level":"Gold",
+            "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com",
+            "backupAccountManager":"deidre.jenkins@disfrutaglobal018aus1.com"
         },
         {
             "id":100002,
@@ -29,7 +33,9 @@
             "city":"Pocatello",
             "state":"ID",
             "zipcode":"83204",
-            "level":"Silver"
+            "level":"Silver",
+            "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com",
+            "backupAccountManager":"deidre.jenkins@disfrutaglobal018aus1.com"
         },
         {
             "id":100003,
@@ -39,7 +45,9 @@
             "city":"Fayetteville",
             "state":"OH",
             "zipcode":"45118",
-            "level":"Gold"
+            "level":"Gold",
+            "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com",
+            "backupAccountManager":"deidre.jenkins@disfrutaglobal018aus1.com"
         },
         {
             "id":100004,
@@ -49,7 +57,8 @@
             "city":"Corona",
             "state":"CA",
             "zipcode":"92882",
-            "level":"Bronze"
+            "level":"Bronze",
+            "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com"
         },
         {
             "id":100005,
