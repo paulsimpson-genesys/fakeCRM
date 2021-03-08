@@ -1,0 +1,61 @@
+{
+    "customers":[
+        {
+            "id":100000,
+            "firstName":"Joseph",
+            "lastName":"Taylor",
+            "address1":"123 Neville Ave",
+            "address2":"P.O. Box 234",
+            "city":"Crawfordsville",
+            "state":"IN",
+            "zipcode":"47933",
+            "level":"Bronze"
+        },
+        {
+            "id":100001,
+            "firstName":"Patty",
+            "lastName":"Smith",
+            "address1":"913 S. North St.",
+            "city":"Tacoma",
+            "state":"WA",
+            "zipcode":"98438",
+            "level":"Gold"
+        },
+        {
+            "id":100002,
+            "firstName":"Johnny",
+            "lastName":"Jones",
+            "address1":"134 Kennesdy Ave.",
+            "city":"Pocatello",
+            "state":"ID",
+            "zipcode":"83204",
+            "level":"Silver"
+        },
+        {
+            "id":100003,
+            "firstName":"Ima",
+            "lastName":"Katt",
+            "address1":"111 Park Ave",
+            "city":"Fayetteville",
+            "state":"OH",
+            "zipcode":"45118",
+            "level":"Gold"
+        },
+        {
+            "id":100004,
+            "firstName":"Week",
+            "lastName":"Pops",
+            "address1":"4000 S. Main St.",
+            "city":"Corona",
+            "state":"CA",
+            "zipcode":"92882",
+            "level":"Bronze"
+        },
+        {
+            "id":100005,
+            "firstName":"Scooby",
+            "lastName":"Doo",
+            "level":"Silver"
+        }
+    ]
+}
