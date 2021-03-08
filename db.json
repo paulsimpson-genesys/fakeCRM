@@ -11,7 +11,7 @@
             "zipcode":"47933",
             "level":"Bronze",
             "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com",
-            "backupAccountManager":"deidre.jenkins@disfrutaglobal018aus1.com"
+            "backupaccountmanager":"deidre.jenkins@disfrutaglobal018aus1.com"
         },
         {
             "id":100001,
@@ -23,7 +23,7 @@
             "zipcode":"98438",
             "level":"Gold",
             "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com",
-            "backupAccountManager":"deidre.jenkins@disfrutaglobal018aus1.com"
+            "backupaccountmanager":"deidre.jenkins@disfrutaglobal018aus1.com"
         },
         {
             "id":100002,
@@ -35,7 +35,7 @@
             "zipcode":"83204",
             "level":"Silver",
             "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com",
-            "backupAccountManager":"deidre.jenkins@disfrutaglobal018aus1.com"
+            "backupaccountmanager":"deidre.jenkins@disfrutaglobal018aus1.com"
         },
         {
             "id":100003,
@@ -47,7 +47,7 @@
             "zipcode":"45118",
             "level":"Gold",
             "accountmanager":"cheryl.fortier@disfrutaglobal018aus1.com",
-            "backupAccountManager":"deidre.jenkins@disfrutaglobal018aus1.com"
+            "backupaccountmanager":"deidre.jenkins@disfrutaglobal018aus1.com"
         },
         {
             "id":100004,
